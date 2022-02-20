@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T16:04:12.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mt5QS65XYB_WPvhVDLIJ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T16:16:07.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LReAbOKx1TqzuPgL88gE" version="16.5.6" type="github">
   <diagram id="02-PtHhv-2V030sNswNj" name="DFD_13220011_Fitra Nurindra">
     <mxGraphModel dx="2297" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="700" background="#ffffff" math="0" shadow="1">
       <root>
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="v5PsCEUuSKWW7xDaxbHd-32" value="&lt;h3&gt;Video&lt;br&gt;Database&lt;br&gt;&lt;/h3&gt;" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-424" y="-320" width="153.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v5PsCEUuSKWW7xDaxbHd-42" value="&lt;h3&gt;Nama : Fitra Nurindra&lt;br&gt;NIM : 13220011&lt;br&gt;&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-470" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
